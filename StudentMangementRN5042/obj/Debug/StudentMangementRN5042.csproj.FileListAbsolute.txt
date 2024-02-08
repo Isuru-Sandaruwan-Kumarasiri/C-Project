@@ -1,0 +1,52 @@
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe.config
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csprojResolveAssemblyReference.cache
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.addstudfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.mainfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.Properties.Resources.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csproj.GenerateResource.Cache
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.editstudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.removestudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.loginfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe.config
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csprojResolveAssemblyReference.cache
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.addstudfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.editstudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.mainfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.loginfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.Properties.Resources.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.removestudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\visual studio Assignment\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csproj.GenerateResource.Cache
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe.config
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csprojResolveAssemblyReference.cache
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.addstudfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.editstudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.mainfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.loginfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.Properties.Resources.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.removestudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csproj.GenerateResource.Cache
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe.config
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.exe
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\bin\Debug\StudentMangementRN5042.pdb
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csprojResolveAssemblyReference.cache
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.addstudfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.editstudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.mainfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.loginfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.Properties.Resources.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.removestudentfrm.resources
+C:\Users\Isuru sandaruwan\Desktop\RN5042 isuru sandaruwan\StudentMangementRN5042\StudentMangementRN5042\obj\Debug\StudentMangementRN5042.csproj.GenerateResource.Cache
